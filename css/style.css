@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'Macaroni';
+    font-family: 'Macaroni'; cursive;
     src: url('../Assets/MacaroniRegular.woff') format('woff2'),
         url('../Assets/MacaroniRegular.woff2') format('woff');
     font-weight: normal;
